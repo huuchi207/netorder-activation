@@ -1,0 +1,36 @@
+{
+  "isError": false,
+  "message": "Thành công.",
+  "result": [
+    {
+      "instock": 1053,
+      "_id": "5be7c75fba26293c7ca6dd1c",
+      "name": "Coca",
+      "price": 12500,
+      "description": "nước uống có ga",
+      "createdAt": "2018-11-17T12:54:49.017Z",
+      "updatedAt": "2018-12-05T10:56:56.389Z",
+      "imageid": "5c065b0184b0bd1ee8d745ac"
+    },
+    {
+      "instock": 1278,
+      "_id": "5bf00f8729b4193d0cf5a46d",
+      "name": "Bim bim",
+      "description": "đồ ăn",
+      "price": 5000,
+      "updatedAt": "2018-12-05T10:56:56.392Z",
+      "createdAt": "2018-11-17T12:54:31.817Z",
+      "imageid": "5c073e181a469e0fd890c30f"
+    },
+    {
+      "instock": 1099,
+      "_id": "5c078a6fe96a3446b012aca1",
+      "name": "Bánh quy",
+      "description": "",
+      "price": 11500,
+      "imageid": "5c07aecbe96a3446b012acb6",
+      "updatedAt": "2018-12-05T10:56:56.394Z",
+      "createdAt": "2018-12-05T08:21:03.930Z"
+    }
+  ]
+}
